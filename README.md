@@ -1,2 +1,2 @@
 # ashleybisram.github.io
-Portfolio Website - please stay tune for launch!
+Portfolio Website - please stay tuned for launch!
