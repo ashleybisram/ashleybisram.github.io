@@ -15,6 +15,8 @@ Ashley Bisram 13-10-2024
 Ashley Bisram 13-10-2024
 - project personalization & adding coreui icons
 
+Ashley Bisram 14-10-2024
+- editing colors, font, and scaling of about photo. updating images.
 
 Template Info:
 -----------------------
@@ -33,7 +35,7 @@ Credits:
 - Bootsnav http://bootsnav.danurstrap.com/
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
-- Color Hunt https://colorhunt.co/palette/fff9d0caf4ffa0deff5ab2ff
+- Color Hunt https://colorhunt.co/palette/fff9d0caf4ffa0deff5ab2ff; https://colorhunt.co/palette/001f3f3a6d8c6a9ab0ead8b1
 - Core UI https://coreui.io/
 
 License:
