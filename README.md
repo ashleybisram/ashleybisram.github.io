@@ -11,6 +11,8 @@ Version 1.0 14-05-2018
 - initial release 
 Ashley Bisram 13-10-2024
 - editing template and inserting new color palette from Color Hunt
+Ashley Bisram 13-10-2024
+- project personalization & adding coreui icons
 
 
 Template Info:
@@ -31,7 +33,7 @@ Credits:
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
 - Color Hunt https://colorhunt.co/palette/fff9d0caf4ffa0deff5ab2ff
-
+- Core UI https://coreui.io/
 
 License:
 -----------------------
