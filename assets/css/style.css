@@ -8,6 +8,24 @@
 font-family: 'Poppins', sans-serif;
 ==================================== */
 
+/*.libre-baskerville-regular {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
 
 /*=========== TABLE OF CONTENTS ===========
 1.  General css (Reset code)
@@ -38,7 +56,7 @@ font-family: 'Poppins', sans-serif;
 	box-sizing:border-box;
 }
 body{
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Libre Baskerville', sans-serif;
 	font-size:16px;
 	color: #676a81;
 	background: #fff;
@@ -58,7 +76,7 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 0;
 	color:#43485c;
     font-size: 16px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Libre Baskerville', sans-serif;
 	text-transform: capitalize;
 }
 p {
@@ -66,7 +84,7 @@ p {
 	line-height:1.8;
 	color:#43485c;
 	font-size:14px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Libre Baskerville', sans-serif;
 }
 img{border:none;max-width:100%; height:auto;}
 ul{
