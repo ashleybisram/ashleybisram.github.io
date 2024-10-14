@@ -9,6 +9,7 @@ Changelog:
 -----------------------
 Version 1.0 14-05-2018
 - initial release 
+
 Ashley Bisram 13-10-2024
 - editing template and inserting new color palette from Color Hunt
 Ashley Bisram 13-10-2024
