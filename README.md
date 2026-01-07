@@ -21,6 +21,9 @@ Ashley Bisram 14-10-2024
 Ashley Bisram 14-10-2024
 - editing colors to Purple Theme: #592986, #8058ac, #a083c9, #c3b4e5, #ded9f6. Added Block AI to projects.
 
+Ashley Bisram 6-1-2026
+- test push
+
 Template Info:
 -----------------------
 Name: 		Browny - Free Bootstrap One Page Portfolio Resume Template
