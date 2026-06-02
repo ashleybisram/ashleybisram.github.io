@@ -24,6 +24,9 @@ Ashley Bisram 14-10-2024
 Ashley Bisram 6-1-2026
 - test push
 
+Ashley Bisram 2-6-2026
+- test
+
 Template Info:
 -----------------------
 Name: 		Browny - Free Bootstrap One Page Portfolio Resume Template
